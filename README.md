@@ -1,5 +1,5 @@
 # pweb
-project1
+Web Programming - project1 
 
 - In this project, I attempted to design my personal website with The "Instagram" theme, it didn't turn out as well as i expected though..
 - As you can see, there are several pictures that are arranged into three rows on the home page as if you're going through someone's instagram profile. 
